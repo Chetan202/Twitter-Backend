@@ -20,5 +20,10 @@ GET(Comment): comment/{commentId} <br/>
 ## Follow
 POST:/{followerId}/follow/{followeeId} <br/>
 GET: /follows <br/>
-
+## Comment
+POST: /comments <br/>
+GET: /comments <br/>
+## Retweet
+POST: /retweets <br/>
+GET: /retweets <br/>
 
